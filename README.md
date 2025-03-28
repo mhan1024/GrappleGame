@@ -6,5 +6,7 @@ This is a first-person platformer game consisting of two levels: a tutorial and 
 This game was developed as part of a group project.
 
 <h3>Demo</h3>
+<a href="https://drive.google.com/file/d/1MRxeOCZOl6kGUQeoCBiPKHAd3QTJxMcw/view?usp=sharing">Demo Video</a>
 
 <h3>Game Design Overview</h3>
+<a href="GameReport.pdf">Game Report</a>
